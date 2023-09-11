@@ -1,1 +1,70 @@
 docker_pw.txt
+
+# Web Development
+node_modules/
+dist/
+build/
+.cache/
+public/
+*.log
+.env
+
+# Data Science
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+*.xlsx
+*.pkl
+*.h5
+*.model
+*.sqlite
+*.db
+*.sqlite3
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# Text Editors and IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+*.komodotools
+*.kateconfig
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Package management
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# Miscellaneous
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
